@@ -1,5 +1,5 @@
 """
-WSGI config for Ecomm project.
+WSGI config for Django_BoilerPlate project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
