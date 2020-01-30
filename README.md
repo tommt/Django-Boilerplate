@@ -1,0 +1,2 @@
+# Django-Boilerplate
+DJANGOBOILERPLATE WITH ALLAUTH
